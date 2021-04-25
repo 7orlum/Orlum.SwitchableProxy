@@ -1,0 +1,7 @@
+﻿TorProxy:
+  Enable: false
+  Address: 127.0.0.1
+  Port: 9050
+  ControlPort: 9051
+  ControlPassword: 
+  CircuitBiuldTimeoutSeconds: 60

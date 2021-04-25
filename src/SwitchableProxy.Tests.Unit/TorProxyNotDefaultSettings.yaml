@@ -1,0 +1,7 @@
+﻿TorProxy:
+  Enable: false
+  Address: 127.0.0.100
+  Port: 19050
+  ControlPort: 19051
+  ControlPassword: 111
+  CircuitBiuldTimeoutSeconds: 20.5
